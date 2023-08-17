@@ -40,8 +40,6 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-  <a href="https://www.linkedin.com/in/ygor-silva-developer" target="_blank"><img align="center" alt="Ygor-AWS" height="30" width="40" src="https://icongr.am/devicon/linkedin-original.svg" target="_blank"></a>
-<a href="https://instagram.com/Ygorsilvat" target="_blank"><img align="center" alt="Ygor-AWS" height="30" width="40" src="https://icongr.am/material/instagram.svg" target="_blank"></a>
-<a href = "mailto:ygor-1996@hotmail.com" target="_blank"><img align="center" alt="Ygor-AWS" height="30" width="40" src="https://icongr.am/material/email-edit.svg" target="_blank"></a>
-
-![Snake animation](https://github.com/Ygor-Silva/Ygor-Silva/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.linkedin.com/in/codestar1003-developer" target="_blank"><img align="center" alt="codestar1003" height="30" width="40" src="https://icongr.am/devicon/linkedin-original.svg" target="_blank"></a>
+<a href="https://instagram.com/codestar1003" target="_blank"><img align="center" alt="codestar1003" height="30" width="40" src="https://icongr.am/material/instagram.svg" target="_blank"></a>
+<a href = "mailto:codestar1003@gmail.com" target="_blank"><img align="center" alt="codestar1003" height="30" width="40" src="https://icongr.am/material/email-edit.svg" target="_blank"></a>
