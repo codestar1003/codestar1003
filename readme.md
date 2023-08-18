@@ -29,17 +29,17 @@
 
 ### 📈 Github Statistics
 
-<div>
-  <a href="https://github.com/powerboltdev">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codestar1003&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+#<div>
+#  <a href="https://github.com/powerboltdev">
+#     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codestar1003&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
      
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestar1003&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+#  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestar1003&layout=compact&langs_count=7&theme=highcontrast"/>
+#</div>
 
 ---
 
-<h3> :earth_americas: &nbsp;Where to find me: </h3> 
+#<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-  <a href="https://www.linkedin.com/in/codestar1003-developer" target="_blank"><img align="center" alt="codestar1003" height="30" width="40" src="https://icongr.am/devicon/linkedin-original.svg" target="_blank"></a>
-<a href="https://instagram.com/codestar1003" target="_blank"><img align="center" alt="codestar1003" height="30" width="40" src="https://icongr.am/material/instagram.svg" target="_blank"></a>
-<a href = "mailto:codestar1003@gmail.com" target="_blank"><img align="center" alt="codestar1003" height="30" width="40" src="https://icongr.am/material/email-edit.svg" target="_blank"></a>
+#  <a href="https://www.linkedin.com/in/codestar1003-developer" target="_blank"><img align="center" alt="codestar1003" height="30" width="40" src="https://icongr.am/devicon/linkedin-original.svg" target="_blank"></a>
+#<a href="https://instagram.com/codestar1003" target="_blank"><img align="center" alt="codestar1003" height="30" width="40" src="https://icongr.am/material/instagram.svg" target="_blank"></a>
+#<a href = "mailto:codestar1003@gmail.com" target="_blank"><img align="center" alt="codestar1003" height="30" width="40" src="https://icongr.am/material/email-edit.svg" target="_blank"></a>
