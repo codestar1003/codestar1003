@@ -1,4 +1,4 @@
-<h2>Hi, I'm puppy! </h2>
+<h2>Hi, I'm Bolt! </h2>
 
 
    <h3> 🕵🏽‍♂️ &nbsp;About Me </h3>
